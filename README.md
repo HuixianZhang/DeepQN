@@ -4,7 +4,8 @@ This repository contains the code for Deep Quaternion Networks [1], please note 
 
 Dependencies can be installed using:
 
-conda install keras==2.2.4 /
+conda install keras==2.2.4  
+
 conda install tensorflow-gpu==1.14.0
 
 
